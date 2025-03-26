@@ -1,3 +1,5 @@
+![News Latest International1](https://github.com/Jamil-39/News-Latest-International1-Latest-World-News/blob/main/DALL%C2%B7E%202025-03-26%2008.32.16%20-%20A%20professional%20and%20modern%20banner%20for%20'News%20Latest%20International1'.%20The%20design%20should%20be%20eye-catching%20and%20suitable%20for%20both%20GitHub%20README%20and%20Blogger%20w.webp)
+
 # 🌍📰 News Latest International1 - Stay Updated with Global News  
 
 ![News Latest International1](https://your-image-url.com/banner.png)  
