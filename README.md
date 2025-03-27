@@ -1,7 +1,5 @@
 ![News Latest International1](https://github.com/Jamil-39/News-Latest-International1-Latest-World-News/blob/main/A_sleek_professional_banner.png?raw=true)
 
-
-
 # 🌍📰 News Latest International1 - Stay Updated with Global News
 
 🔴 **Breaking News | 🌐 International Updates | 🚀 Trending Stories**
