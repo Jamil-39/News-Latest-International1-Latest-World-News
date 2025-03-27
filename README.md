@@ -1,5 +1,4 @@
-
-![News Latest International1](https://raw.githubusercontent.com/Jamil-39/News-Latest-International1-Latest-World-News/main/A_sleek_professional_banner.png)
+![News Latest International1]
 
 # 🌍📰 News Latest International1 - Stay Updated with Global News
 
