@@ -1,4 +1,4 @@
-![News Latest International1](https://github.com/Jamil-39/News-Latest-International1-Latest-World-News/blob/main/A_sleek_professional_banner.png?raw=true)
+![News Latest International1](https://raw.githubusercontent.com/Jamil-39/News-Latest-International1-Latest-World-News/main/A_sleek_professional_banner.png)
 
 # 🌍📰 News Latest International1 - Stay Updated with Global News
 
@@ -33,17 +33,17 @@ Welcome to **News Latest International1**, your go-to source for **real-time glo
 Stay updated by following us on social media:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Awaisi777)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Jamil0348)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jamil0348)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/usman.rehan1/)  
 
 ---
 
 ## 📌 Why Follow **News Latest International1**?
 
-✅ **Trusted Global News Source** 🌍  
-✅ **Real-Time Breaking News Updates** 🚀  
-✅ **Expert Insights & Analysis** 📊  
-✅ **SEO-Optimized Blog for International Readers**  
+👉 **Trusted Global News Source** 🌍  
+👉 **Real-Time Breaking News Updates** 🚀  
+👉 **Expert Insights & Analysis** 📊  
+👉 **SEO-Optimized Blog for International Readers**  
 
 ---
 
@@ -77,14 +77,27 @@ Help us grow by sharing our website and GitHub repo!
 - Top World Headlines Today  
 - SEO Optimized News Website  
 - Latest Trending Stories Worldwide  
+- International News Today  
+- Global Economic Updates  
+- Top Trending Global News  
+- Political Analysis and Insights  
 
 ---
 
-## 📜 License
+## 🐝 How to Support Us?
+
+👉 Star this repo on GitHub ⭐  
+👉 Share our website with friends and family  
+👉 Follow us on social media for real-time updates  
+
+---
+
+## 💚 License
 
 This project is protected under the **Creative Commons License**. Feel free to share content **with proper attribution**, but **commercial use and modifications are restricted**.
 
-🚀 **Stay connected and explore the world with News Latest International1!** 🌍
+
+
 
 
 
